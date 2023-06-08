@@ -10,9 +10,6 @@ GET {{url}}/pet/findByStatus?status=sold,pending
 
 POST {{url}}/user/createWithArray
 
-3.В теле запроса для создания питомца сделать динамические значения, которые будут автоматически генерироваться при отправке
-
-PUT {{url}}/pet
 
 Задание 2:
 
